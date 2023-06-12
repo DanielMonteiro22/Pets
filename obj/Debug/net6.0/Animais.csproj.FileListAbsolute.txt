@@ -4,7 +4,6 @@ C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\bin\Debug\net6.0\Animais.e
 C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\bin\Debug\net6.0\Animais.deps.json
 C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\bin\Debug\net6.0\Animais.runtimeconfig.json
 C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\bin\Debug\net6.0\Animais.dll
-C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\bin\Debug\net6.0\ref\Animais.dll
 C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\bin\Debug\net6.0\Animais.pdb
 C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -25,3 +24,9 @@ C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\obj\Debug\net6.0\Animais.d
 C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\obj\Debug\net6.0\ref\Animais.dll
 C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\obj\Debug\net6.0\Animais.pdb
 C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\obj\Debug\net6.0\Animais.genruntimeconfig.cache
+C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\obj\Debug\net6.0\staticwebassets\msbuild.Animais.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\obj\Debug\net6.0\staticwebassets\msbuild.build.Animais.props
+C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Animais.props
+C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Animais.props
+C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Daniel Monteiro\Documents\ProjetoWeb\Animais\obj\Debug\net6.0\refint\Animais.dll
